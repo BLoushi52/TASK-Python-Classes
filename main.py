@@ -47,7 +47,7 @@ class Vendor:
     
 
 
-# vendor = Vendor("Abdallah", 3, 6)
+vendor = Vendor("Abdallah", 3, 6)
 
 
 class Customer:
